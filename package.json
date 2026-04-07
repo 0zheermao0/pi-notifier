@@ -1,12 +1,18 @@
 {
 	"name": "pi-notifier",
-	"private": true,
+	"private": false,
 	"version": "0.1.0",
 	"type": "module",
 	"description": "Lightweight macOS desktop notifications for pi when waiting for input or decision.",
 	"keywords": [
 		"pi-package"
 	],
+	"license": "MIT",
+	"author": "Joey",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/0zheermao0/pi-notifier.git"
+	},
 	"scripts": {
 		"build": "echo 'nothing to build'",
 		"check": "echo 'nothing to check'"
