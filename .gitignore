@@ -1,0 +1,13 @@
+# OS & Editor
+.DS_Store
+.idea/
+.vscode/
+
+# Dependencies
+node_modules/
+
+# pi-lens local state
+.pi-lens/
+
+# Development / Planning
+PLAN.md
