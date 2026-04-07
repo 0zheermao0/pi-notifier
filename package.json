@@ -1,7 +1,7 @@
 {
 	"name": "pi-notifier",
 	"private": false,
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"type": "module",
 	"description": "Lightweight macOS desktop notifications for pi when waiting for input or decision.",
 	"keywords": [
